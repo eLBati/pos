@@ -4,3 +4,4 @@ queue
 partner-contact
 stock-logistics-barcode
 stock-logistics-workflow
+product-attribute
