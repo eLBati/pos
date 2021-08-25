@@ -30,28 +30,28 @@
             <link href="/pos_coupon/static/src/css/coupon.css" rel="stylesheet" />
         </xpath>
     </template>
-    <template id="assets_tests" inherit_id="web.assets_tests">
-        <xpath expr="script[last()]" position="after">
-            <script
-                type="text/javascript"
-                src="/pos_coupon/static/src/js/tours/PosCoupon.tour.utils.js"
-            />
-            <script
-                type="text/javascript"
-                src="/pos_coupon/static/src/js/tours/PosCouponTourPosMethods.js"
-            />
-            <script
-                type="text/javascript"
-                src="/pos_coupon/static/src/js/tours/PosCouponTourMethods.js"
-            />
-            <script
-                type="text/javascript"
-                src="/pos_coupon/static/src/js/tours/PosCoupon1.tour.js"
-            />
-            <script
-                type="text/javascript"
-                src="/pos_coupon/static/src/js/tours/PosCoupon2.tour.js"
-            />
-        </xpath>
-    </template>
+<!--    <template id="assets_tests" inherit_id="web.assets_tests">-->
+<!--        <xpath expr="script[last()]" position="after">-->
+<!--            <script-->
+<!--                type="text/javascript"-->
+<!--                src="/pos_coupon/static/src/js/tours/PosCoupon.tour.utils.js"-->
+<!--            />-->
+<!--            <script-->
+<!--                type="text/javascript"-->
+<!--                src="/pos_coupon/static/src/js/tours/PosCouponTourPosMethods.js"-->
+<!--            />-->
+<!--            <script-->
+<!--                type="text/javascript"-->
+<!--                src="/pos_coupon/static/src/js/tours/PosCouponTourMethods.js"-->
+<!--            />-->
+<!--            <script-->
+<!--                type="text/javascript"-->
+<!--                src="/pos_coupon/static/src/js/tours/PosCoupon1.tour.js"-->
+<!--            />-->
+<!--            <script-->
+<!--                type="text/javascript"-->
+<!--                src="/pos_coupon/static/src/js/tours/PosCoupon2.tour.js"-->
+<!--            />-->
+<!--        </xpath>-->
+<!--    </template>-->
 </odoo>

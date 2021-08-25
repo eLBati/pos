@@ -4,7 +4,7 @@
 
 {
     "name": "Point of Sale Coupons",
-    "version": "13.0.1.0.0",
+    "version": "12.0.1.0.0",
     "category": "Sales/Point Of Sale",
     "sequence": 6,
     "summary": "Use coupons in Point of Sale",
